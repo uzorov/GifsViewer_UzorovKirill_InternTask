@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GifsViewer_UzorovKirill_InternTask" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#4680C2</item>
+        <item name="colorPrimaryVariant">#4680C2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#4680C2</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/black</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="ThemeTextViewLight">
+        <!-- bottom line color -->
+        <item name="colorControlNormal">#BDBDBD</item>
+        <!-- text color -->
+        <item name="android:textColor">#BDBDBD</item>
+        <!-- hint text color -->
+        <item name="android:textColorHint">#000</item>
+    </style>
+</resources>
